@@ -23,6 +23,8 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 
 ➠ [Mixer DJ](https://wagprojects.github.io/Mixer/)
 
+➠ [Mata Mosquito](https://wagprojects.github.io/game-mata-mosquito/index.html)
+
 ## ⚙ Funcionalidades:
 
 ➠ [Formulário de cadastro](https://wagprojects.github.io/Projeto-FormulriodeCadastro/)
