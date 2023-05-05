@@ -16,7 +16,7 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagProjects&layout=compact&theme=tokyonight"/>
 </div>
 
-### 📚 Alguns de meus projetos!
+### 📚 ALGUNS PROJETOS!
 ## 🎲 Jogos:
 
 ➠ [Adivinhe o número](https://wagprojects.github.io/numero-secreto/) (Comandos por voz)
