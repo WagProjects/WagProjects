@@ -17,6 +17,9 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 </div>
 
 ### 📚 Alguns de meus projetos!
+🎲 Jogos:
+
+♦ [Adivinhe o número](https://wagprojects.github.io/numero-secreto/) (Comandos por voz)
 
 ### 📩 Entre em contato!
 
