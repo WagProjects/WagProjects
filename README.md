@@ -29,6 +29,9 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 
 ♦ [Adicionar objetos na mochila](https://wagprojects.github.io/Projeto-Mochila/)
 
+
+Para conferir mais projetos dê uma olhada no meu [repositório](https://github.com/WagProjects?tab=repositories).
+
 ### 📩 Entre em contato!
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagneros@gmail.com)
