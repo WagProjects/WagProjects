@@ -21,6 +21,8 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 
 ♦ [Adivinhe o número](https://wagprojects.github.io/numero-secreto/) (Comandos por voz)
 
+♦ [Mixer DJ](https://wagprojects.github.io/Mixer/)
+
 ⚙ Funcionalidade:
 
 ♦ [Formulário de cadastro](https://wagprojects.github.io/Projeto-FormulriodeCadastro/)
