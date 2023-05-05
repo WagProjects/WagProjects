@@ -19,23 +19,23 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 ### 📚 Alguns de meus projetos!
 🎲 Jogos:
 
-➠ [Adivinhe o número](https://wagprojects.github.io/numero-secreto/) (Comandos por voz)
+ ➠ [Adivinhe o número](https://wagprojects.github.io/numero-secreto/) (Comandos por voz)
 
-➠ [Mixer DJ](https://wagprojects.github.io/Mixer/)
+ ➠ [Mixer DJ](https://wagprojects.github.io/Mixer/)
 
 ⚙ Funcionalidades:
 
-➠ [Formulário de cadastro](https://wagprojects.github.io/Projeto-FormulriodeCadastro/)
+ ➠ [Formulário de cadastro](https://wagprojects.github.io/Projeto-FormulriodeCadastro/)
 
-➠ [Adicionar objetos na mochila](https://wagprojects.github.io/Projeto-Mochila/)
+ ➠ [Adicionar objetos na mochila](https://wagprojects.github.io/Projeto-Mochila/)
 
-➠ [Calculadora](https://wagprojects.github.io/calculadora/)
+ ➠ [Calculadora](https://wagprojects.github.io/calculadora/)
 
 🌐 Sites:
 
-➠ [Spotify](https://wagprojects.github.io/Projeto-Spotify/) 
+ ➠ [Spotify](https://wagprojects.github.io/Projeto-Spotify/) 
 
-➠ [Banco Finans](https://wagprojects.github.io/ProjetoFinans/)
+ ➠ [Banco Finans](https://wagprojects.github.io/ProjetoFinans/)
 
 
 Para conferir mais projetos dê uma olhada no meu [repositório](https://github.com/WagProjects?tab=repositories)!
