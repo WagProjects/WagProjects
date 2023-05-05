@@ -29,6 +29,8 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 
 ♦ [Adicionar objetos na mochila](https://wagprojects.github.io/Projeto-Mochila/)
 
+♦ [Calculadora](https://wagprojects.github.io/calculadora/)
+
 🌐 Sites:
 
 ♦ [Spotify](https://wagprojects.github.io/Projeto-Spotify/) 
