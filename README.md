@@ -25,6 +25,8 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 
 ♦ [Formulário de cadastro](https://wagprojects.github.io/Projeto-FormulriodeCadastro/)
 
+♦ [Adicionar objetos na mochila](https://wagprojects.github.io/Projeto-Mochila/)
+
 ### 📩 Entre em contato!
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagneros@gmail.com)
