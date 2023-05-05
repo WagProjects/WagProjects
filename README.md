@@ -23,14 +23,20 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 
 ♦ [Mixer DJ](https://wagprojects.github.io/Mixer/)
 
-⚙ Funcionalidade:
+⚙ Funcionalidades:
 
 ♦ [Formulário de cadastro](https://wagprojects.github.io/Projeto-FormulriodeCadastro/)
 
 ♦ [Adicionar objetos na mochila](https://wagprojects.github.io/Projeto-Mochila/)
 
+🌐 Sites:
 
-Para conferir mais projetos dê uma olhada no meu [repositório](https://github.com/WagProjects?tab=repositories).
+♦ [Spotify](https://wagprojects.github.io/Projeto-Spotify/) 
+
+♦ [Banco Finans](https://wagprojects.github.io/ProjetoFinans/)
+
+
+Para conferir mais projetos dê uma olhada no meu [repositório](https://github.com/WagProjects?tab=repositories)!
 
 ### 📩 Entre em contato!
 
