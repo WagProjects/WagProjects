@@ -1,7 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**WagProjects/WagProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WagProjects/WagProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Aqui estão algumas idéias para você começar:
 
