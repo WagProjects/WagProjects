@@ -1,7 +1,7 @@
 ### 👋Olá devs, me chamo Wagner !
 
 
-Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolvedor Front-end Jr !
+# Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolvedor Front-end Jr !
 
 
 🧠 Tenho formações em JavaScript, HTML e CSS.
@@ -16,7 +16,8 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagProjects&layout=compact&theme=tokyonight"/>
 </div>
 
-## Entre em contato!
+## 📩 Entre em contato!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-oliveira-b3959a170/)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagneros@gmail.com)
