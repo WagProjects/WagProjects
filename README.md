@@ -12,7 +12,7 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolv
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagProjects&show_icons=true&theme=tokyonight"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagProjects&show_icons=true&theme=tokyonight"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagProjects&layout=compact&theme=tokyonight"/>
 </div>
 
