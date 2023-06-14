@@ -1,5 +1,5 @@
 # 👋Olá devs, me chamo Wagner !
-Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; Desenvolvedor Front-end Jr !
+Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou me aperfeiçoando como desenvolvedor front-end, este é meu portifólio!
 
 
 🧠 Tenho formações em JavaScript, HTML e CSS.
