@@ -4,7 +4,7 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou m
 
 🧠 Tenho formações em JavaScript, HTML e CSS.
 
-🎯 Atualmente estou estudando JavaScript e REACT afim de me especializar e ter um conhecimento aprofundado.
+🎯 Atualmente estudo JavaScript, TypeScript e REACT afim de me especializar e ter um conhecimento aprofundado.
 
 ## Objetivos
 
