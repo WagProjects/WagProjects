@@ -34,6 +34,7 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou m
 ➠ [Calculadora](https://wagprojects.github.io/calculadora/)
 
 ## 🌐 Sites:
+➠ [Alurabooks](https://alura-books-eta-six.vercel.app/)
 
 ➠ [Spotify](https://wagprojects.github.io/Projeto-Spotify/) 
 
