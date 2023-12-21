@@ -33,6 +33,8 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou m
 
 ➠ [Calculadora](https://wagprojects.github.io/calculadora/)
 
+➠ [Lista de tarefa com timer](https://wagprojects.github.io/Fokus2.0/)
+
 ## 🌐 Sites:
 ➠ [Alurabooks](https://alura-books-eta-six.vercel.app/)
 
