@@ -1,7 +1,6 @@
 # 👋Olá devs, me chamo Wagner !
 Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou me aperfeiçoando como desenvolvedor front-end, este é meu portifólio!
 
-
 🧠 Tenho formações em JavaScript, HTML e CSS.
 
 🎯 Atualmente estudo JavaScript, TypeScript e React afim de me especializar e ter um conhecimento aprofundado.
@@ -10,10 +9,12 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou m
 
 👨🏻‍💻 Estou procurando colaborar em desenvolver grandes resultados em equipe e de maneira que possa me desenvolver profissionalmente.
 
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagProjects&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagProjects&layout=compact&theme=tokyonight"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=WagProjects&locale=pt&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagProjects&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagProjects&layout=compact&theme=dark"/>
+  </div>
 </div>
 
 ### 📚 ALGUNS PROJETOS!
@@ -57,7 +58,6 @@ Para conferir mais projetos dê uma olhada no meu [repositório](https://github.
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>
-
 
 ## 📩 Entre em contato!
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagneros@gmail.com)
