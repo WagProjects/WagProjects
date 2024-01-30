@@ -44,7 +44,7 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou m
 ➠ [Banco Finans](https://wagprojects.github.io/ProjetoFinans/)
 
 
-Para conferir mais projetos dê uma olhada no meu [repositório](https://github.com/WagProjects?tab=repositories)!
+Para conferir mais projetos, dê uma olhada no meu [repositório](https://github.com/WagProjects?tab=repositories)!
 
 ## 🛠 Ferramentas e Tecnologias que estudo e tenho interesse!
 <div>
