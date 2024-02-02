@@ -43,6 +43,8 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou m
 
 ➠ [Banco Finans](https://wagprojects.github.io/ProjetoFinans/)
 
+➠ [Culturama](https://culturama-six-sigma.vercel.app/)
+
 
 Para conferir mais projetos, dê uma olhada no meu [repositório](https://github.com/WagProjects?tab=repositories)!
 
