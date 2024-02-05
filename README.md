@@ -64,4 +64,4 @@ Para conferir mais projetos, dê uma olhada no meu [repositório](https://github
 ## 📩 Entre em contato!
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagneros@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-oliveira-b3959a170/)
-[![CURRICULO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://docs.google.com/document/d/1eN9zAuptUqUZl6BUuJDjQ-hccvzMAkP-RxvFk9iHG9A/edit#heading=h.mkbb4hq3n22w)
+[![CURRICULO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devpoolbr.com.br/profile/WagProjects)
