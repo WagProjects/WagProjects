@@ -1,8 +1,6 @@
 # 👋Olá devs, me chamo Wagner !
 Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou me aperfeiçoando como desenvolvedor front-end, este é meu portifólio!
 
-🧠 Tenho formações em JavaScript, HTML e CSS.
-
 🎯 Atualmente estudo JavaScript, TypeScript e React afim de me especializar e ter um conhecimento aprofundado.
 
 ## Objetivos
@@ -58,7 +56,6 @@ Para conferir mais projetos, dê uma olhada no meu [repositório](https://github
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
 </div>
 
 ## 📩 Entre em contato!
