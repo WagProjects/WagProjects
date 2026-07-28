@@ -5,7 +5,7 @@ Sou 👨🏻‍🎓 formado em Análise e Desenvolvimento de sistemas; E estou m
 
 ## Objetivos
 
-👨🏻‍💻 Estou procurando colaborar em desenvolver grandes resultados em equipe e de maneira que possa me desenvolver profissionalmente.
+👨🏻‍💻 Estou procurando desenvolver grandes resultados profissionalmente.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=WagProjects&locale=pt&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
